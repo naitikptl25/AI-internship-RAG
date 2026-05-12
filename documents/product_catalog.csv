@@ -1,0 +1,11 @@
+product_id,product_name,category,price_usd,stock_status,description,warranty_months
+P001,CloudStore Pro Starter,Software Subscription,0,Available,Free tier with 15GB storage and up to 5 users. Ideal for freelancers and small teams.,12
+P002,CloudStore Pro Business,Software Subscription,12,Available,1TB storage with admin console and unlimited users. Billed per user per month.,12
+P003,CloudStore Pro Enterprise,Software Subscription,Custom,Available,Unlimited storage with advanced security and SLA. Pricing based on number of users.,24
+P004,AcmeHub Smart Dock,Hardware,149,Available,7-in-1 USB-C docking station with 4K HDMI, 100W PD charging, and Ethernet port.,24
+P005,AcmeKey Wireless Keyboard,Hardware,89,Available,Slim multi-device Bluetooth keyboard compatible with Windows Mac and Linux.,12
+P006,AcmeMouse Precision,Hardware,65,Low Stock,Ergonomic wireless mouse with 4000 DPI sensor and 60-hour battery life.,12
+P007,CloudStore Mobile Add-on,Software Add-on,3,Available,Enhanced mobile features including offline sync and advanced file sharing for iOS and Android.,6
+P008,AcmeCam 4K Webcam,Hardware,119,Out of Stock,4K 30fps webcam with built-in noise-cancelling microphone and privacy shutter.,12
+P009,Priority Support Pack,Service,49,Available,6-month priority email and phone support SLA with 4-hour response time guarantee.,6
+P010,AcmeVault Backup,Software Subscription,8,Available,Automated encrypted cloud backup for up to 5 devices with 500GB storage.,12
