@@ -183,7 +183,3 @@ python-dotenv     — Load .env file
 ```
 
 ---
-
-## 📝 Write-Up
-
-See [`WRITEUP.md`](WRITEUP.md) for architecture decisions, limitations, and scaling plan.
